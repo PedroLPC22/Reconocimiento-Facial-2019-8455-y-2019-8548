@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46e40e95-ef31-4fb7-b899-7007629ec9a5": {
+      "ProjectGuid": "46e40e95-ef31-4fb7-b899-7007629ec9a5",
+      "DisplayName": "Reconocimiento facial v2.0",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
